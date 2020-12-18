@@ -1,19 +1,15 @@
 @font-face {
     font-family: "bravura";
-    src: url("/fonts/BravuraText.otf")/* need to add BravuraText.otf font file to fonts folder */
+    src: url("/fonts/BravuraText.ttf")/* need to add BravuraText.ttf font file to fonts folder */
 }
 
 .icon-music::before {
     content: "♫";
     font-family: "bravura";
-    font-size: 1.8rem !important;
-    position: relative;
-    top: .25rem;
 }
 
 .icon-music-lesson {
     font-family: "bravura" !important;
-    font-size: 1.2rem !important;
     color: rgba(0, 0, 0, 0.6);
     margin-right: .75rem !important;
     margin-top: 1rem !important;
