@@ -2,7 +2,7 @@
 
 ### How to implement this icon
 1. In skins.css, replace everything before `:root` apart from the first line with the contents of `redoMusicIcon.css`
-2. Upload the font `BravuraText.otf` to your `/fonts` directory on DEEDS
+2. Upload the font `BravuraText.ttf` to your `/fonts` directory on DEEDS
 3. Change the class of the `<a>` link that leads to the Music Timetable from `icon-podcast` to `icon-music`
 
 ### How to show music lessons on the timetable page (assuming you have done the above)
